@@ -1,0 +1,5 @@
+f1=open('E:\\Naresh\\file\surya1.pdf','rb')
+f2=open('E:\\Naresh\\file\surya33.pdf','wb')
+f2.write(f1.read())
+f1.close()
+f2.close()

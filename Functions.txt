@@ -1,0 +1,12 @@
+1. Method vs Function
+2. def functionname(para1,para2,...):
+	"""function docstrings"""
+	function statements
+3. calling a function
+4. Returning value from a funciton
+5. Returning multiple values from function
+6. pass by value or refrence
+7. Formal and actual arguments - positional,keyword, default and variable length
+8. local and global
+9.Recursive
+10.Anonymous function

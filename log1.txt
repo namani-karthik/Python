@@ -1,0 +1,3 @@
+INFO:root:Entering into try Except block
+CRITICAL:root:division by zero
+INFO:root:Exiting out of try Except block

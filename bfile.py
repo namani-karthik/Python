@@ -1,0 +1,5 @@
+f=open('E:\\Python\\Naresh_ex\\image1.jpg','br')
+f1=open('E:\\Python\\Naresh_ex\\image21.jpg','bw')
+f1.write(f.read())
+f.close()
+f1.close()

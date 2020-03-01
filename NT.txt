@@ -1,0 +1,1 @@
+Hi this Python class. we are dealing with file handling...completed core python classes. Thankyou.@@

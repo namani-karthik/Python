@@ -1,0 +1,30 @@
+I/O: Input statements/Output Statements
+Output Statements:
+	print() //throws to next line by default
+	print(string) // print string as it is
+	print(\\n) // to escape from escape sequence
+	print(3*n) // repetition operator
+	print() //with string concatenation and comma; difference between them
+	print()
+print(variables list)
+	print(a,b)
+	print(a,b,sep='',end='')
+print(object)
+	print(list,tuples,etc)
+print("string",variables list)
+	print(a,"")
+	print("",a,"")
+	print("",a)
+print(formatted string)
+	uses % to join a string with a variable or value
+	print("" %(variable list)) // "" can contain %i, %d, %f, %s, %c
+				   // inside formated string we can use replacement fields using {}; print('n={0}, n{1}'.format(n1,n2))
+
+Input Statements:
+-----------------
+str=input()
+	a,b,c=[int(x) for x in input('enter the numbers:').split()] // enter more than one variable in single statement
+	print(a,b,c,sep=';')
+eval() // funtion
+
+

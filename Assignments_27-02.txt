@@ -1,0 +1,10 @@
+1. Display even numbers in between m and n //while loop
+2. Find the sum of the numbers in the list
+3. program to search the list for a given number
+4. program to print prime numbers upto a given number accept upto what number user wants
+5. *
+   **
+   ***
+   ****
+   *****
+   ******

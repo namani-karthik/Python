@@ -1,0 +1,27 @@
+This is karthik, python tutor. U can contact me at naresh.tech@gmail.com or at my personal mail id karthik_python@gmail.com
+CRITICAL:root: critical
+ERROR:root: error
+WARNING:root:Warning
+INFO:root:Info
+DEBUG:root:Debug
+CRITICAL:root:There is a serious problem
+ERROR:root:This is a Error message
+CRITICAL:root:There is a serious problem
+ERROR:root:This is a Error message
+CRITICAL:root:There is a serious problem
+ERROR:root:This is a Error message
+CRITICAL:root:There is a serious problem
+ERROR:root:This is a Error message
+CRITICAL:root:There is a serious problem
+ERROR:root:This is a Error message
+CRITICAL:root:There is a serious problem
+ERROR:root:This is a Error message
+CRITICAL:root:There is a serious problem
+ERROR:root:This is a Error message
+INFO:root:('Call is made to this function with', 3)
+INFO:root:('Call is made to this function with', 2)
+INFO:root:('Call is made to this function with', 5)
+INFO:root:('Call is made to this function with', 6)
+INFO:root:('Call is made to this function with', 7)
+CRITICAL:root:There is a serious problem
+ERROR:root:This is a Error message
